@@ -1,0 +1,14 @@
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\bin\Debug\net8.0\Lekce_6_HW.exe
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\bin\Debug\net8.0\Lekce_6_HW.deps.json
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\bin\Debug\net8.0\Lekce_6_HW.runtimeconfig.json
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\bin\Debug\net8.0\Lekce_6_HW.dll
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\bin\Debug\net8.0\Lekce_6_HW.pdb
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\Lekce_6_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\Lekce_6_HW.AssemblyInfoInputs.cache
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\Lekce_6_HW.AssemblyInfo.cs
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\Lekce_6_HW.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\Lekce_6_HW.dll
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\refint\Lekce_6_HW.dll
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\Lekce_6_HW.pdb
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\Lekce_6_HW.genruntimeconfig.cache
+C:\Users\Petr\Desktop\Nová složka\Lekce_6_HW\Lekce_6_HW\obj\Debug\net8.0\ref\Lekce_6_HW.dll
